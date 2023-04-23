@@ -8,35 +8,34 @@ https://github.com/Naereen/badges
 
  -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=14&lines=Hi+👋,+Justin+here!;Backend+Dev.;Web+Dev.)](https://git.io/typing-svg)
+
 ![Generic badge](https://img.shields.io/badge/Status-Unknown-red.svg)
 ![Generic badge](https://img.shields.io/badge/Learning-AWS-green.svg)
 
 ---
 
-##### Hi 👋, Justin here!
-
-My current and previous role is listed below:
-
-- Backend Dev.
-- Web Dev.
-- Desktop Dev.
-
-##### 💡 About me
+### 💡 About me
 
 ---
 
 <p>Hi there names Justin, a software engineer who likes to learn new skill in programming and other stuff as long as I enjoy and challenge me. I'm currently working on my side project which is about blog and most of it's content are all about philosophy (specially stoicism) and programming if you are interested to be an author or developer contact me.</p>
 
-<br>
 
-<div style="background-color:#f5feff;padding-bottom:10px;padding-top:1px;text-align:center;border-radius:10px;">
-<h5>Skills & Techstack</h5>
+---
 
-![My Skills](https://skillicons.dev/icons?i=css,html,scss,figma,tailwindcss,svelte,bootstrap,js,nodejs,php,express,postgresql,mongodb,angular,typescript,aws&perline=5)
+### ⚡Skills & Techstack
 
-</div>
+---
 
-#### ⚙️ Small Project
+ 
+ ![My Skills](https://skillicons.dev/icons?i=css,html,scss,figma,tailwindcss,svelte,bootstrap,js,nodejs,php,express,postgresql,mongodb,angular,typescript,aws&perline=5)
+
+
+
+---
+
+### ⚙️ Small Project
 
 ---
 
