@@ -19,7 +19,7 @@ https://github.com/Naereen/badges
 
 ---
 
-<p>Hi there names Justin, a software engineer who likes to learn new skill in programming and other stuff as long as I enjoy and challenge me. I'm currently working on my side project which is about blog and most of it's content are all about philosophy (specially stoicism) and programming if you are interested to be an author or developer contact me.</p>
+<p>Hi there names Justin, a software engineer who likes to learn new skill in programming and other stuff as long as I enjoy and challenge me.</p>
 
 
 ---
