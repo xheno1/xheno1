@@ -28,7 +28,7 @@ https://github.com/Naereen/badges
 ---
 
  
- ![My Skills](https://skillicons.dev/icons?i=css,html,scss,figma,tailwindcss,svelte,bootstrap,js,nodejs,php,express,postgresql,mongodb,angular,typescript,aws&perline=5)
+ ![My Skills](https://skillicons.dev/icons?i=css,html,scss,figma,tailwindcss,svelte,bootstrap,js,nodejs,php,express,postgresql,mongodb,angular,typescript,aws,git,mysql&perline=5)
 
 
 
