@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=From%20Zero%20to%20Hero&fontSize=60&desc=Where%20a%20newbie%20start%20his%20own%20journey&animation=twinkling" />
 
 <!--
 Thanks for this wonderful template kindly check this if your interested:
@@ -8,10 +7,10 @@ https://github.com/Naereen/badges
 
  -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?size=14&lines=Hi+👋,+Justin+here!;Backend+Dev.;Web+Dev.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=14&lines=Hi+👋,+Justin+here!;Backend+Developer.;Web+Developer)](https://git.io/typing-svg)
 
 ![Generic badge](https://img.shields.io/badge/Status-Unknown-red.svg)
-![Generic badge](https://img.shields.io/badge/Learning-AWS-green.svg)
+![Generic badge](https://img.shields.io/badge/Learning-Newskill-green.svg)
 
 ---
 
@@ -19,7 +18,7 @@ https://github.com/Naereen/badges
 
 ---
 
-<p>Hi there names Justin, a software engineer who likes to learn new skill in programming and other stuff as long as I enjoy and challenge me.</p>
+<p>Hi there! I'm Justin, a passionate programmer with an insatiable curiosity for all things tech. Whether it's diving into the intricacies of coding languages or exploring the latest developments in the software world, I thrive on the thrill of learning and problem-solving. I believe that in the world of programming, there's always something new to discover and create.</p>
 
 
 ---
@@ -40,18 +39,22 @@ https://github.com/Naereen/badges
 ---
 
 - <a href="https://mnilist.netlify.app/">Mnilist</a>
-  - A spotify idea clone
-  - Currently broken as I accidentally remove fontawesome icon 🤣
+  - A spotify idea clone ( No frame work use just JS, CSS, HTML )
 - <a href="https://speedtyp.netlify.app/">Speedtyp</a>
   - Test your typing speed
 - <a href="https://tonote.netlify.app">ToNote</a>
   - A simplified list down notes
 - <a href="https://fourweather.netlify.app/">Fourweather</a>
-  - Currently broken as I accidentally remove fontawesome icon 🤣
+  - Check current weather today ( No frame work use just JS, CSS, HTML )
 - <a href="https://sbitqcu.netlify.app/">sbitqcu</a>
-  - Just to say thanks for everyone
-- Will add others...
+  - Thanks to everyone 
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer" />
+---
+
+### ⚙️ Other Project
+
+---
+
+- For other projects please contact me. thanks!
