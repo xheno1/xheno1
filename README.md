@@ -47,7 +47,9 @@ https://github.com/Naereen/badges
 - <a href="https://fourweather.netlify.app/">Fourweather</a>
   - Check current weather today ( No frame work use just JS, CSS, HTML )
 - <a href="https://sbitqcu.netlify.app/">sbitqcu</a>
-  - Thanks to everyone 
+  - Thanks to everyone
+- <a href="https://guesswordss.netlify.app/">guesswordss</a>
+  - Guess the shown word
 
 <br>
 
