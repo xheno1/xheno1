@@ -28,7 +28,7 @@ https://github.com/Naereen/badges
 ---
 
  
- ![My Skills](https://skillicons.dev/icons?i=css,html,scss,figma,tailwindcss,svelte,bootstrap,js,nodejs,php,express,postgresql,mongodb,angular,typescript,aws,git,mysql&perline=5)
+ ![My Skills](https://skillicons.dev/icons?i=css,html,scss,figma,tailwindcss,svelte,bootstrap,js,nodejs,php,express,postgresql,mongodb,angular,typescript,aws,git,mysql,react&perline=5)
 
 
 
@@ -50,7 +50,9 @@ https://github.com/Naereen/badges
   - Thanks to everyone
 - <a href="https://guesswordss.netlify.app/">guesswordss</a>
   - Guess the shown word
-
+- <a href="https://emojiswar.netlify.app/">emojiswar</a>
+  - A turnbase two player stategy games
+  
 <br>
 
 ---
